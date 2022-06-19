@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number To Word Converter App</string>
+    <string name="from1to1000">შეიყვანეთ მთელი რიცხვი [1;1000] შუალედში, დააკლიკეთ ღილაკზე და მიიღეთ მისი შესაბამისი ტექსტი</string>
+    <string name="hint">შეიყვანეთ რიცხვი [1;1000] შუალედში</string>
+    <string name="clickHere">კონვერტაციისთვის დააკლიკეთ აქ</string>
+    <string name="errorMsgEmptyNumber">თქვენ არ შეგიყვანიათ რიცხვი.\n გთხოვთ შეიყვანოთ მთელი რიცხვი [1;1000] შუალედიდან</string>
+    <string name="errorMsgWrongNumber">თქვენი რიცხვი სცდება მოცემული შუალედის ფარგლებს.\n თხოვთ შეიყვანოთ მთელი რიცხვი [1;1000] შუალედიდან</string>
+</resources>
